@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+817806,"Concierge Services",139499,27899.8,167399,USD,2017-08-19
+815700,"Various paper supplies",101446,20289.2,121735,CAD,2017-08-11
+306742,"Waste management services",123809,24761.8,148571,EUR,2017-08-27
